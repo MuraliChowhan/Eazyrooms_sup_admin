@@ -1,0 +1,20 @@
+.deleteIcon {
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+    border: 1px solid #e34655 !important;
+    font-size: 40px;
+    color: #e34655 !important;
+    padding-top: 14px;
+}
+
+.delete-text {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.danger-button {
+    background-color: #ce2837 !important;
+    color: #fff;
+    border: #ce2837 !important;
+}

@@ -1,0 +1,10 @@
+.chatrooms{
+    background-color: #556ee6;
+    color: #fff;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+.cursor-pointer{
+    cursor: pointer;
+}
